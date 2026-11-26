@@ -1,0 +1,13 @@
+* text=auto
+
+# Explicitly declare binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.wasm binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
